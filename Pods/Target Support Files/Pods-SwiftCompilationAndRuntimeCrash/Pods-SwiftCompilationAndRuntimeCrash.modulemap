@@ -1,0 +1,6 @@
+module Pods_SwiftCompilationAndRuntimeCrash {
+  umbrella header "Pods-SwiftCompilationAndRuntimeCrash-umbrella.h"
+
+  export *
+  module * { export * }
+}

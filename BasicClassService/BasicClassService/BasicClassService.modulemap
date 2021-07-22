@@ -1,0 +1,12 @@
+//
+//  BasicClassService.modulemap
+//
+//  Created by Soleil Yu on 2021/7/22.
+//
+
+framework module BasicClassService {
+  umbrella header "BasicClassService.h"
+
+  export *
+  module * { export * }
+}
